@@ -21,7 +21,7 @@ using namespace std;
 #define minpwm 1140000
 #define maxpwm 1800000
 #define minFsingle 0
-#define maxFsingle 1.9
+#define maxFsingle 4.655
 
 /*
 // Prop 1038 dji drones on 3S battery
