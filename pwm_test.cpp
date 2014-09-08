@@ -41,7 +41,7 @@ int main(int argc, char **argv)
 
 		//Give force values directly (assumed that the pwm to force calibraton is done)
 		cout<<"Give required force = ";
-		cin>>F;  //100 to 250
+		cin>>F;  //see .h file for range
 		cout<<endl;
 		u[0]=F;
 		u[1]=F;
